@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chocolate List</string>
+    <string name="app_description">The list reflects Food Empowerment Project\'s most recent research on companies that make vegan products containing chocolate to find out if they source their chocolate from areas where slavery can still be found.
+
+Companies such as Nestlé, Mars, and others are culpable, but are not listed as they do not make vegan products. 
+
+This list is not comprehensive. We continue to reach out to more companies and will be updating the list as we receive responses. Again, all of the companies make vegan chocolates but they may also sell non-vegan chocolates - we have tried to help, but we encourage you to read the ingredients to be sure.
+	</string>
+    <string name="action_search">Search</string>
+	<string name="action_show_all">Show all</string>
+	<string name="action_show_only_recommended">Show only recommended</string>
+	<string name="action_filter_only_not_recommended">Show only not recommended</string>
+    <string name="action_show_favourites">Show favorites</string>
+    <string name="action_contact">Contact</string>
+    <string name="action_understanding_the_list">Understanding the list</string>
+    
+    <string name="company_logo">Company logo</string>
+    <string name="status_recommended">Recommended</string>
+    <string name="status_recommended_benefit_of_the_doubt">Giving them the benefit of the doubt</string>
+    <string name="status_cannot_recommend">Not Recommended</string>
+    <string name="status_reason_cannot_recommend_did_not_disclose">Company would not disclose (no transparency for customers)</string>
+    <string name="status_reason_cannot_recommend_did_not_respond">Company did not respond</string>
+    <string name="status_reason_cannot_recommend_working_on_issues">Company responded, but unsatisfactory</string>
+    <string name="status_reason_cannot_recommend_responded">Company is working on the issues in various ways</string>
+    <string name="feature_image">Feature image</string>
+    <string name="feature_read_more">Read More</string>
+    <string name="add_to_favourites">Add to favorites</string>
+    <string name="remove_from_favourites">Remove from favorites</string>
+    <string name="post_to_twitter">Post to Twitter</string>
+    <string name="post_to_facebook">Post to Facebook</string>
+    
+
+</resources>
