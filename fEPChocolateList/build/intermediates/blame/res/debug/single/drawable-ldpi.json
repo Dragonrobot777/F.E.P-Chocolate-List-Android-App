@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_facebook.png",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable-ldpi\\icon_facebook.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_favourite_on.png",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable-ldpi\\icon_favourite_on.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_twitter.png",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable-ldpi\\icon_twitter.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon_favourite_off.png",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable-ldpi\\icon_favourite_off.png"
+    }
+]

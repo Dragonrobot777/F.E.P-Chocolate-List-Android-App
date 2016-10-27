@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\color\\vpi__dark_theme.xml"
+    }
+]

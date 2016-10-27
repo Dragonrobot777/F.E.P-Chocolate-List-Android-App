@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable\\default_logo.png",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable\\default_logo.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable\\button_read_more.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable\\button_read_more.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_image.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable\\logo_image.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable\\status_recommended.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable\\status_recommended.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable\\status_cannot_recommend.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable\\status_cannot_recommend.xml"
+    }
+]

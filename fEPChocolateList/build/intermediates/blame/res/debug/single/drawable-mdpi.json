@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_twitter.png",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable-mdpi\\icon_twitter.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_favourite_off.png",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable-mdpi\\icon_favourite_off.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_favourite_on.png",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable-mdpi\\icon_favourite_on.png"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_facebook.png",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\drawable-mdpi\\icon_facebook.png"
+    }
+]

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jmustache-1.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.samskivert/jmustache/1.9/579e13949496d3adc3b73193caba18c8d3c3587f/jmustache-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.samskivert/jmustache/1.9/7a0d643a5c743a4d89202329be7eca998c9ac409/jmustache-1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

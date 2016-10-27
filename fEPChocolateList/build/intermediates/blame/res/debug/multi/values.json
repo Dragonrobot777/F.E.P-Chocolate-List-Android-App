@@ -1,0 +1,1467 @@
+[
+    {
+        "outputFile": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 44,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 47,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 47,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 49,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 49,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 49,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 49,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 62,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 62,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 59,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 59,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 60,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 60,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 66,
+                    "endOffset": 494
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 66,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 499,
+                    "endColumn": 62,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 62,
+                        "endOffset": 557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 71,
+                    "endOffset": 629
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 562,
+                        "endColumn": 71,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 634,
+                    "endColumn": 71,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 71,
+                        "endOffset": 701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endColumn": 73,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 73,
+                        "endOffset": 775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endColumn": 73,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 780,
+                        "endColumn": 73,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 75,
+                    "endOffset": 925
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 75,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 930,
+                    "endColumn": 72,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 72,
+                        "endOffset": 998
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 74,
+                    "endOffset": 1073
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1003,
+                        "endColumn": 74,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endColumn": 70,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 70,
+                        "endOffset": 1144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 78,
+                    "endOffset": 1223
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1149,
+                        "endColumn": 78,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1228,
+                    "endColumn": 61,
+                    "endOffset": 1285
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1228,
+                        "endColumn": 61,
+                        "endOffset": 1285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1290,
+                    "endColumn": 62,
+                    "endOffset": 1348
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1290,
+                        "endColumn": 62,
+                        "endOffset": 1348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1353,
+                    "endColumn": 77,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1353,
+                        "endColumn": 77,
+                        "endOffset": 1426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 78,
+                    "endOffset": 1505
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1431,
+                        "endColumn": 78,
+                        "endOffset": 1505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1510,
+                    "endColumn": 92,
+                    "endOffset": 1598
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1510,
+                        "endColumn": 92,
+                        "endOffset": 1598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1603,
+                    "endColumn": 92,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endColumn": 92,
+                        "endOffset": 1691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 107,
+                    "endOffset": 1799
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1696,
+                        "endColumn": 107,
+                        "endOffset": 1799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1804,
+                    "endColumn": 107,
+                    "endOffset": 1907
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1804,
+                        "endColumn": 107,
+                        "endOffset": 1907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4217,
+                    "endColumn": 57,
+                    "endOffset": 4270
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4275,
+                    "endColumn": 55,
+                    "endOffset": 4326
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4331,
+                    "endColumn": 61,
+                    "endOffset": 4388
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 4217,
+                        "endColumn": 61,
+                        "endOffset": 4274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4393,
+                    "endColumn": 67,
+                    "endOffset": 4456
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 4279,
+                        "endColumn": 67,
+                        "endOffset": 4342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4461,
+                    "endColumn": 62,
+                    "endOffset": 4519
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4347,
+                        "endColumn": 62,
+                        "endOffset": 4405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4524,
+                    "endColumn": 64,
+                    "endOffset": 4584
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 4410,
+                        "endColumn": 64,
+                        "endOffset": 4470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4589,
+                    "endColumn": 65,
+                    "endOffset": 4650
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4475,
+                        "endColumn": 65,
+                        "endOffset": 4536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4655,
+                    "endColumn": 66,
+                    "endOffset": 4717
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 4541,
+                        "endColumn": 66,
+                        "endOffset": 4603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4722,
+                    "endColumn": 77,
+                    "endOffset": 4795
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4608,
+                        "endColumn": 77,
+                        "endOffset": 4681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4800,
+                    "endColumn": 89,
+                    "endOffset": 4885
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 4686,
+                        "endColumn": 89,
+                        "endOffset": 4771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4890,
+                    "endColumn": 72,
+                    "endOffset": 4958
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4776,
+                        "endColumn": 72,
+                        "endOffset": 4844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4963,
+                    "endColumn": 68,
+                    "endOffset": 5027
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 4849,
+                        "endColumn": 68,
+                        "endOffset": 4913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 5032,
+                    "endColumn": 64,
+                    "endOffset": 5092
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4918,
+                        "endColumn": 64,
+                        "endOffset": 4978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5097,
+                    "endColumn": 67,
+                    "endOffset": 5160
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 4983,
+                        "endColumn": 67,
+                        "endOffset": 5046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5165,
+                    "endColumn": 65,
+                    "endOffset": 5226
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 5051,
+                        "endColumn": 65,
+                        "endOffset": 5112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5231,
+                    "endColumn": 68,
+                    "endOffset": 5295
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 5117,
+                        "endColumn": 68,
+                        "endOffset": 5181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5300,
+                    "endColumn": 78,
+                    "endOffset": 5374
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5186,
+                        "endColumn": 78,
+                        "endOffset": 5260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5379,
+                    "endColumn": 69,
+                    "endOffset": 5444
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 5265,
+                        "endColumn": 69,
+                        "endOffset": 5330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5449,
+                    "endColumn": 72,
+                    "endOffset": 5517
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 5335,
+                        "endColumn": 72,
+                        "endOffset": 5403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5522,
+                    "endColumn": 73,
+                    "endOffset": 5591
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 5408,
+                        "endColumn": 73,
+                        "endOffset": 5477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5596,
+                    "endColumn": 50,
+                    "endOffset": 5642
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1131,
+                        "endColumn": 50,
+                        "endOffset": 1177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5647,
+                    "endColumn": 88,
+                    "endOffset": 5731
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 974,
+                        "endColumn": 85,
+                        "endOffset": 1058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5736,
+                    "endColumn": 48,
+                    "endOffset": 5780
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 799,
+                        "endColumn": 48,
+                        "endOffset": 843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5785,
+                    "endColumn": 52,
+                    "endOffset": 5833
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 846,
+                        "endColumn": 49,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5838,
+                    "endColumn": 65,
+                    "endOffset": 5899
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1064,
+                        "endColumn": 65,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5904,
+                    "endColumn": 78,
+                    "endOffset": 5978
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 897,
+                        "endColumn": 75,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5983,
+                    "endColumn": 80,
+                    "endOffset": 6059
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1183,
+                        "endColumn": 80,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6064,
+                    "endColumn": 62,
+                    "endOffset": 6122
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2146,
+                        "endColumn": 62,
+                        "endOffset": 2204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6127,
+                    "endLine": 73,
+                    "endColumn": 10,
+                    "endOffset": 6803
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endLine": 9,
+                        "endColumn": 10,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 6808,
+                    "endColumn": 51,
+                    "endOffset": 6855
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 6860,
+                    "endColumn": 53,
+                    "endOffset": 6909
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 53,
+                        "endOffset": 1320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 6914,
+                    "endColumn": 55,
+                    "endOffset": 6965
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2032,
+                        "endColumn": 55,
+                        "endOffset": 2083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 6970,
+                    "endColumn": 55,
+                    "endOffset": 7021
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2089,
+                        "endColumn": 55,
+                        "endOffset": 2140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 7026,
+                    "endColumn": 61,
+                    "endOffset": 7083
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2345,
+                        "endColumn": 61,
+                        "endOffset": 2402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 7088,
+                    "endColumn": 59,
+                    "endOffset": 7143
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2284,
+                        "endColumn": 59,
+                        "endOffset": 2339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 7148,
+                    "endColumn": 72,
+                    "endOffset": 7216
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2210,
+                        "endColumn": 72,
+                        "endOffset": 2278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 7221,
+                    "endColumn": 67,
+                    "endOffset": 7284
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1492,
+                        "endColumn": 67,
+                        "endOffset": 1555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 7289,
+                    "endColumn": 134,
+                    "endOffset": 7419
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1561,
+                        "endColumn": 134,
+                        "endOffset": 1691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 7424,
+                    "endColumn": 98,
+                    "endOffset": 7518
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1697,
+                        "endColumn": 98,
+                        "endOffset": 1791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 7523,
+                    "endColumn": 117,
+                    "endOffset": 7636
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 117,
+                        "endOffset": 2026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 7641,
+                    "endColumn": 114,
+                    "endOffset": 7751
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1797,
+                        "endColumn": 114,
+                        "endOffset": 1907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 7756,
+                    "endColumn": 58,
+                    "endOffset": 7810
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1326,
+                        "endColumn": 58,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 7815,
+                    "endColumn": 104,
+                    "endOffset": 7915
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1386,
+                        "endColumn": 104,
+                        "endOffset": 1486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 7920,
+                    "endLine": 94,
+                    "endColumn": 12,
+                    "endOffset": 8206
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 8211,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 8366
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 8371,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 8566
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5482,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 5677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 8571,
+                    "endLine": 105,
+                    "endColumn": 12,
+                    "endOffset": 8819
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5682,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 5930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 8824,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 8858
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5935,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 5969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8863,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 9048
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5974,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 6159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 9053,
+                    "endLine": 122,
+                    "endColumn": 12,
+                    "endOffset": 9650
+                },
+                "from": {
+                    "file": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\exploded-aar\\F.E.P-Chocolate-List\\library\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6164,
+                        "endLine": 82,
+                        "endColumn": 12,
+                        "endOffset": 6761
+                    }
+                }
+            }
+        ]
+    }
+]

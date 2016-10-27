@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_5862911ba2bd70a22c5444c6448f8c105491dfc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.google.android\support-v4\r7\24d0f6da34c3a2bfcf736ab42d51c91ac821ee22\support-v4-r7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="24d0f6da34c3a2bfcf736ab42d51c91ac821ee22">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-r7_3c67656c1f4b31b93305461382be8cc8d77bb15f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_0ca348965603a5083135ffa82dc8a92ce32c4acf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5f8448dd3fe9f450e9c3fd151a12243fb932ba90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c467f85f787cdb62d3ade7a63769a7e0b4428827\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-mapper-asl\1.9.13\1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7\jackson-mapper-asl-1.9.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-mapper-asl-1.9.13_bab90324048ce2f90b77bb12e482efb4a9e56b8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.octo.android.robospice\robospice-cache\1.4.5\ac47e3d58b6fe7396a12b41afd7edd9a509a1b4\robospice-cache-1.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ac47e3d58b6fe7396a12b41afd7edd9a509a1b4">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\robospice-cache-1.4.5_0b90a62c3a52c5edfacc981b17336955797e7302\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0f9b7d3a9177db19fa13484c7cfc717cae073c21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_6ad6d5224745d66155f377414b6e3a55a55a5706\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_478ec710360741e58021f98699456f052daaf226\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-io\1.3.2\b6dde38349ba9bb5e6ea6320531eae969985dae5\commons-io-1.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-1.3.2_cf0da705e834b6ea5b420a2e2944a296da760b66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.1\905075e6c80f206bbe6cf1e809d2caa69f420c76\commons-lang3-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.1_74e8f9b6a5996f3cd465262dd23bb34fe13894b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_655eb20a080e605a9327e002a0adcaf54c4a9104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.octo.android.robospice\robospice\1.4.5\cb9af4213eec58c4318651595bda5284c35c2bc1\robospice-1.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cb9af4213eec58c4318651595bda5284c35c2bc1">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\robospice-1.4.5_3b40cc65a17507b684f2b10e4ce24ac1947f369b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76b3e1a8bb043ccc46112e6d8c0072a7fa14f3d6">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_15ff7ff511bba6c154f2f3639dea897d27ba29ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9c80db878952b61153c54cc4abb8ff0de534bcd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1aa65908afb9a73403d10dd76c19230e4f526387">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4dc954a1da157163fefc99cd201aedb8f75bd038\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.samskivert\jmustache\1.9\579e13949496d3adc3b73193caba18c8d3c3587f\jmustache-1.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="579e13949496d3adc3b73193caba18c8d3c3587f">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\jmustache-1.9_a56ebe73f84961f3c24a67b725f7ec4219bd98ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_34d03e8d1f6597246a03a57616e6fdbe2ccad722\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2d3916be9b47d3d57bdad2f52706cdd6cb1742a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-core-asl\1.9.13\3c304d70f42f832e0a86d45bd437f692129299a4\jackson-core-asl-1.9.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3c304d70f42f832e0a86d45bd437f692129299a4">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-asl-1.9.13_b4f983fb08dd3669ec71d873c1e0b4d4a1fa05d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_a9cee977552f8c85ac0b03a12e9f380037de9aa6\classes.dex" />
+    </item>
+
+</items>

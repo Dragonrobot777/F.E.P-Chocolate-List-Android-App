@@ -1,0 +1,435 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From F.E.P-Chocolate-List:
+* .idea\
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\workspace.xml
+* Archives\
+* Archives\Releases\
+* Archives\Releases\ChocolateList-1.0.0.apk
+* Archives\Releases\ChocolateList-1.0.1.apk
+* Archives\Releases\ChocolateList-1.0.3.apk
+* README.md
+* build.gradle
+* chocolist-release.keystore
+* externals\
+* externals\Android-ViewPagerIndicator\
+* externals\Android-ViewPagerIndicator\CHANGELOG.md
+* externals\Android-ViewPagerIndicator\README.md
+* externals\Android-ViewPagerIndicator\checkstyle.xml
+* externals\Android-ViewPagerIndicator\library\
+* externals\Android-ViewPagerIndicator\library\AndroidManifest.xml
+* externals\Android-ViewPagerIndicator\library\libs\
+* externals\Android-ViewPagerIndicator\library\libs\android-support-v4.jar
+* externals\Android-ViewPagerIndicator\library\pom.xml
+* externals\Android-ViewPagerIndicator\library\project.properties
+* externals\Android-ViewPagerIndicator\library\res\
+* externals\Android-ViewPagerIndicator\library\res\color\
+* externals\Android-ViewPagerIndicator\library\res\color\vpi__dark_theme.xml
+* externals\Android-ViewPagerIndicator\library\res\color\vpi__light_theme.xml
+* externals\Android-ViewPagerIndicator\library\res\drawable-hdpi\
+* externals\Android-ViewPagerIndicator\library\res\drawable-hdpi\vpi__tab_selected_focused_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-hdpi\vpi__tab_selected_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-hdpi\vpi__tab_selected_pressed_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-hdpi\vpi__tab_unselected_focused_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-hdpi\vpi__tab_unselected_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-hdpi\vpi__tab_unselected_pressed_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-mdpi\
+* externals\Android-ViewPagerIndicator\library\res\drawable-mdpi\vpi__tab_selected_focused_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-mdpi\vpi__tab_selected_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-mdpi\vpi__tab_selected_pressed_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-mdpi\vpi__tab_unselected_focused_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-mdpi\vpi__tab_unselected_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-mdpi\vpi__tab_unselected_pressed_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-xhdpi\
+* externals\Android-ViewPagerIndicator\library\res\drawable-xhdpi\vpi__tab_selected_focused_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-xhdpi\vpi__tab_selected_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-xhdpi\vpi__tab_selected_pressed_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-xhdpi\vpi__tab_unselected_focused_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-xhdpi\vpi__tab_unselected_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable-xhdpi\vpi__tab_unselected_pressed_holo.9.png
+* externals\Android-ViewPagerIndicator\library\res\drawable\
+* externals\Android-ViewPagerIndicator\library\res\drawable\vpi__tab_indicator.xml
+* externals\Android-ViewPagerIndicator\library\res\values\
+* externals\Android-ViewPagerIndicator\library\res\values\vpi__attrs.xml
+* externals\Android-ViewPagerIndicator\library\res\values\vpi__colors.xml
+* externals\Android-ViewPagerIndicator\library\res\values\vpi__defaults.xml
+* externals\Android-ViewPagerIndicator\library\res\values\vpi__styles.xml
+* externals\Android-ViewPagerIndicator\library\src\
+* externals\Android-ViewPagerIndicator\library\src\com\
+* externals\Android-ViewPagerIndicator\library\src\com\viewpagerindicator\
+* externals\Android-ViewPagerIndicator\library\src\com\viewpagerindicator\CirclePageIndicator.java
+* externals\Android-ViewPagerIndicator\library\src\com\viewpagerindicator\IconPageIndicator.java
+* externals\Android-ViewPagerIndicator\library\src\com\viewpagerindicator\IconPagerAdapter.java
+* externals\Android-ViewPagerIndicator\library\src\com\viewpagerindicator\IcsLinearLayout.java
+* externals\Android-ViewPagerIndicator\library\src\com\viewpagerindicator\LinePageIndicator.java
+* externals\Android-ViewPagerIndicator\library\src\com\viewpagerindicator\PageIndicator.java
+* externals\Android-ViewPagerIndicator\library\src\com\viewpagerindicator\TabPageIndicator.java
+* externals\Android-ViewPagerIndicator\library\src\com\viewpagerindicator\TitlePageIndicator.java
+* externals\Android-ViewPagerIndicator\library\src\com\viewpagerindicator\UnderlinePageIndicator.java
+* externals\Android-ViewPagerIndicator\pom.xml
+* externals\Android-ViewPagerIndicator\sample\
+* externals\Android-ViewPagerIndicator\sample\AndroidManifest.xml
+* externals\Android-ViewPagerIndicator\sample\libs\
+* externals\Android-ViewPagerIndicator\sample\libs\android-support-v4.jar
+* externals\Android-ViewPagerIndicator\sample\logo.png
+* externals\Android-ViewPagerIndicator\sample\pom.xml
+* externals\Android-ViewPagerIndicator\sample\project.properties
+* externals\Android-ViewPagerIndicator\sample\psd\
+* externals\Android-ViewPagerIndicator\sample\psd\icon_hdpi.psd
+* externals\Android-ViewPagerIndicator\sample\psd\icon_mdpi.psd
+* externals\Android-ViewPagerIndicator\sample\psd\icon_xhdpi.psd
+* externals\Android-ViewPagerIndicator\sample\psd\logo.psd
+* externals\Android-ViewPagerIndicator\sample\psd\web.psd
+* externals\Android-ViewPagerIndicator\sample\res\
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\custom_tab_indicator_divider.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\custom_tab_indicator_focused.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\custom_tab_indicator_selected.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\custom_tab_indicator_selected_pressed.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\custom_tab_indicator_unselected.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\custom_tab_indicator_unselected_focused.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\custom_tab_indicator_unselected_pressed.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\icon.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\perm_group_calendar_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\perm_group_calendar_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\perm_group_camera_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\perm_group_camera_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\perm_group_device_alarms_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\perm_group_device_alarms_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\perm_group_location_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-hdpi\perm_group_location_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\custom_tab_indicator_divider.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\custom_tab_indicator_selected.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\custom_tab_indicator_selected_focused.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\custom_tab_indicator_selected_pressed.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\custom_tab_indicator_unselected.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\custom_tab_indicator_unselected_focused.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\custom_tab_indicator_unselected_pressed.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\icon.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\perm_group_calendar_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\perm_group_calendar_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\perm_group_camera_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\perm_group_camera_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\perm_group_device_alarms_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\perm_group_device_alarms_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\perm_group_location_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-mdpi\perm_group_location_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\custom_tab_indicator_divider.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\custom_tab_indicator_selected.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\custom_tab_indicator_selected_focused.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\custom_tab_indicator_selected_pressed.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\custom_tab_indicator_unselected.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\custom_tab_indicator_unselected_focused.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\custom_tab_indicator_unselected_pressed.9.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\icon.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\perm_group_calendar_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\perm_group_calendar_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\perm_group_camera_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\perm_group_camera_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\perm_group_device_alarms_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\perm_group_device_alarms_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\perm_group_location_normal.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable-xhdpi\perm_group_location_selected.png
+* externals\Android-ViewPagerIndicator\sample\res\drawable\
+* externals\Android-ViewPagerIndicator\sample\res\drawable\custom_tab_indicator.xml
+* externals\Android-ViewPagerIndicator\sample\res\drawable\perm_group_calendar.xml
+* externals\Android-ViewPagerIndicator\sample\res\drawable\perm_group_camera.xml
+* externals\Android-ViewPagerIndicator\sample\res\drawable\perm_group_device_alarms.xml
+* externals\Android-ViewPagerIndicator\sample\res\drawable\perm_group_location.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\
+* externals\Android-ViewPagerIndicator\sample\res\layout\simple_circles.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\simple_circles_vertical.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\simple_icons.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\simple_lines.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\simple_tabs.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\simple_titles.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\simple_titles_bottom.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\simple_underlines.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\themed_circles.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\themed_lines.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\themed_titles.xml
+* externals\Android-ViewPagerIndicator\sample\res\layout\themed_underlines.xml
+* externals\Android-ViewPagerIndicator\sample\res\menu\
+* externals\Android-ViewPagerIndicator\sample\res\menu\menu.xml
+* externals\Android-ViewPagerIndicator\sample\res\values\
+* externals\Android-ViewPagerIndicator\sample\res\values\styles.xml
+* externals\Android-ViewPagerIndicator\sample\screens.png
+* externals\Android-ViewPagerIndicator\sample\src\
+* externals\Android-ViewPagerIndicator\sample\src\com\
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\BaseSampleActivity.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\ListSamples.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleCirclesDefault.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleCirclesInitialPage.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleCirclesSnap.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleCirclesStyledLayout.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleCirclesStyledMethods.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleCirclesStyledTheme.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleCirclesWithListener.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleIconsDefault.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleLinesDefault.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleLinesStyledLayout.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleLinesStyledMethods.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleLinesStyledTheme.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTabsDefault.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTabsStyled.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTabsWithIcons.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTitlesBottom.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTitlesCenterClickListener.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTitlesDefault.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTitlesInitialPage.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTitlesStyledLayout.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTitlesStyledMethods.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTitlesStyledTheme.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTitlesTriangle.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleTitlesWithListener.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleUnderlinesDefault.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleUnderlinesNoFade.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleUnderlinesStyledLayout.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleUnderlinesStyledMethods.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\SampleUnderlinesStyledTheme.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\TestFragment.java
+* externals\Android-ViewPagerIndicator\sample\src\com\viewpagerindicator\sample\TestFragmentAdapter.java
+* externals\Android-ViewPagerIndicator\sample\web.png
+* externals\android-autobgbutton\
+* externals\android-autobgbutton\LICENSE
+* externals\android-autobgbutton\README.md
+* externals\android-autobgbutton\net\
+* externals\android-autobgbutton\net\shikii\
+* externals\android-autobgbutton\net\shikii\widgets\
+* externals\android-autobgbutton\net\shikii\widgets\SAutoBgButton.java
+* fEPChocolateList\
+* fEPChocolateList\build.gradle
+* fEPChocolateList\lint.xml
+* fEPChocolateList\src\
+* fEPChocolateList\src\main\
+* fEPChocolateList\src\main\AndroidManifest.xml
+* fEPChocolateList\src\main\assets\
+* fEPChocolateList\src\main\assets\AppData.json
+* fEPChocolateList\src\main\assets\bootstrap.min.css
+* fEPChocolateList\src\main\assets\carousel_item_body.mustache
+* fEPChocolateList\src\main\assets\contact.mustache
+* fEPChocolateList\src\main\assets\recommendations.mustache
+* fEPChocolateList\src\main\java\
+* fEPChocolateList\src\main\java\net\
+* fEPChocolateList\src\main\java\net\shikii\
+* fEPChocolateList\src\main\java\net\shikii\widgets\
+* fEPChocolateList\src\main\java\net\shikii\widgets\SAutoBgButton.java
+* fEPChocolateList\src\main\java\org\
+* fEPChocolateList\src\main\java\org\foodispower\
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\CompanyActivity.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\FeatureActivity.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\MainActivity.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\MustacheActivity.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\adapter\
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\adapter\CompanyAdapter.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\adapter\FeatureCarouselAdapter.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\data\
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\data\AppDataManager.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\fragment\
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\fragment\FeatureCarouselItemFragment.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\manager\
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\manager\FavouritesManager.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\model\
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\model\AppData.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\model\Company.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\model\Feature.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\spice\
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\spice\request\
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\spice\request\AppDataJsonRequest.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\spice\request\listener\
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\spice\request\listener\RemoteImageViewRequestListener.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\spice\service\
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\spice\service\ImageSpiceService.java
+* fEPChocolateList\src\main\java\org\foodispower\chocolatelist\spice\service\JsonSpiceService.java
+* fEPChocolateList\src\main\res\
+* fEPChocolateList\src\main\res\anim\
+* fEPChocolateList\src\main\res\anim\fadein.xml
+* fEPChocolateList\src\main\res\anim\fadeout.xml
+* fEPChocolateList\src\main\res\anim\push_left_in.xml
+* fEPChocolateList\src\main\res\anim\push_left_out.xml
+* fEPChocolateList\src\main\res\anim\push_right_in.xml
+* fEPChocolateList\src\main\res\anim\push_right_out.xml
+* fEPChocolateList\src\main\res\anim\rotation.xml
+* fEPChocolateList\src\main\res\drawable-hdpi\
+* fEPChocolateList\src\main\res\drawable-hdpi\ic_launcher.png
+* fEPChocolateList\src\main\res\drawable-hdpi\icon_facebook.png
+* fEPChocolateList\src\main\res\drawable-hdpi\icon_favourite_off.png
+* fEPChocolateList\src\main\res\drawable-hdpi\icon_favourite_on.png
+* fEPChocolateList\src\main\res\drawable-hdpi\icon_twitter.png
+* fEPChocolateList\src\main\res\drawable-ldpi\
+* fEPChocolateList\src\main\res\drawable-ldpi\icon_facebook.png
+* fEPChocolateList\src\main\res\drawable-ldpi\icon_favourite_off.png
+* fEPChocolateList\src\main\res\drawable-ldpi\icon_favourite_on.png
+* fEPChocolateList\src\main\res\drawable-ldpi\icon_twitter.png
+* fEPChocolateList\src\main\res\drawable-mdpi\
+* fEPChocolateList\src\main\res\drawable-mdpi\ic_launcher.png
+* fEPChocolateList\src\main\res\drawable-mdpi\icon_facebook.png
+* fEPChocolateList\src\main\res\drawable-mdpi\icon_favourite_off.png
+* fEPChocolateList\src\main\res\drawable-mdpi\icon_favourite_on.png
+* fEPChocolateList\src\main\res\drawable-mdpi\icon_twitter.png
+* fEPChocolateList\src\main\res\drawable-xhdpi\
+* fEPChocolateList\src\main\res\drawable-xhdpi\ic_launcher.png
+* fEPChocolateList\src\main\res\drawable-xhdpi\icon_facebook.png
+* fEPChocolateList\src\main\res\drawable-xhdpi\icon_favourite_off.png
+* fEPChocolateList\src\main\res\drawable-xhdpi\icon_favourite_on.png
+* fEPChocolateList\src\main\res\drawable-xhdpi\icon_twitter.png
+* fEPChocolateList\src\main\res\drawable-xxhdpi\
+* fEPChocolateList\src\main\res\drawable-xxhdpi\ic_launcher.png
+* fEPChocolateList\src\main\res\drawable\
+* fEPChocolateList\src\main\res\drawable\button_read_more.xml
+* fEPChocolateList\src\main\res\drawable\default_logo.png
+* fEPChocolateList\src\main\res\drawable\logo_image.xml
+* fEPChocolateList\src\main\res\drawable\status_cannot_recommend.xml
+* fEPChocolateList\src\main\res\drawable\status_recommended.xml
+* fEPChocolateList\src\main\res\layout\
+* fEPChocolateList\src\main\res\layout\activity_company.xml
+* fEPChocolateList\src\main\res\layout\activity_feature.xml
+* fEPChocolateList\src\main\res\layout\activity_main.xml
+* fEPChocolateList\src\main\res\layout\activity_mustache.xml
+* fEPChocolateList\src\main\res\layout\company_list_cell.xml
+* fEPChocolateList\src\main\res\layout\feature_carousel.xml
+* fEPChocolateList\src\main\res\layout\feature_carousel_item_fragment.xml
+* fEPChocolateList\src\main\res\menu\
+* fEPChocolateList\src\main\res\menu\main.xml
+* fEPChocolateList\src\main\res\values-sw600dp\
+* fEPChocolateList\src\main\res\values-sw600dp\dimens.xml
+* fEPChocolateList\src\main\res\values-sw720dp-land\
+* fEPChocolateList\src\main\res\values-sw720dp-land\dimens.xml
+* fEPChocolateList\src\main\res\values-v11\
+* fEPChocolateList\src\main\res\values-v11\styles.xml
+* fEPChocolateList\src\main\res\values-v14\
+* fEPChocolateList\src\main\res\values-v14\styles.xml
+* fEPChocolateList\src\main\res\values\
+* fEPChocolateList\src\main\res\values\dimens.xml
+* fEPChocolateList\src\main\res\values\strings.xml
+* fEPChocolateList\src\main\res\values\styles.xml
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* library\
+* library\build.gradle
+* library\src\
+* library\src\main\
+* library\src\main\AndroidManifest.xml
+* library\src\main\java\
+* library\src\main\java\com\
+* library\src\main\java\com\viewpagerindicator\
+* library\src\main\java\com\viewpagerindicator\CirclePageIndicator.java
+* library\src\main\java\com\viewpagerindicator\IconPageIndicator.java
+* library\src\main\java\com\viewpagerindicator\IconPagerAdapter.java
+* library\src\main\java\com\viewpagerindicator\IcsLinearLayout.java
+* library\src\main\java\com\viewpagerindicator\LinePageIndicator.java
+* library\src\main\java\com\viewpagerindicator\PageIndicator.java
+* library\src\main\java\com\viewpagerindicator\TabPageIndicator.java
+* library\src\main\java\com\viewpagerindicator\TitlePageIndicator.java
+* library\src\main\java\com\viewpagerindicator\UnderlinePageIndicator.java
+* library\src\main\res\
+* library\src\main\res\color\
+* library\src\main\res\color\vpi__dark_theme.xml
+* library\src\main\res\color\vpi__light_theme.xml
+* library\src\main\res\drawable-hdpi\
+* library\src\main\res\drawable-hdpi\vpi__tab_selected_focused_holo.9.png
+* library\src\main\res\drawable-hdpi\vpi__tab_selected_holo.9.png
+* library\src\main\res\drawable-hdpi\vpi__tab_selected_pressed_holo.9.png
+* library\src\main\res\drawable-hdpi\vpi__tab_unselected_focused_holo.9.png
+* library\src\main\res\drawable-hdpi\vpi__tab_unselected_holo.9.png
+* library\src\main\res\drawable-hdpi\vpi__tab_unselected_pressed_holo.9.png
+* library\src\main\res\drawable-mdpi\
+* library\src\main\res\drawable-mdpi\vpi__tab_selected_focused_holo.9.png
+* library\src\main\res\drawable-mdpi\vpi__tab_selected_holo.9.png
+* library\src\main\res\drawable-mdpi\vpi__tab_selected_pressed_holo.9.png
+* library\src\main\res\drawable-mdpi\vpi__tab_unselected_focused_holo.9.png
+* library\src\main\res\drawable-mdpi\vpi__tab_unselected_holo.9.png
+* library\src\main\res\drawable-mdpi\vpi__tab_unselected_pressed_holo.9.png
+* library\src\main\res\drawable-xhdpi\
+* library\src\main\res\drawable-xhdpi\vpi__tab_selected_focused_holo.9.png
+* library\src\main\res\drawable-xhdpi\vpi__tab_selected_holo.9.png
+* library\src\main\res\drawable-xhdpi\vpi__tab_selected_pressed_holo.9.png
+* library\src\main\res\drawable-xhdpi\vpi__tab_unselected_focused_holo.9.png
+* library\src\main\res\drawable-xhdpi\vpi__tab_unselected_holo.9.png
+* library\src\main\res\drawable-xhdpi\vpi__tab_unselected_pressed_holo.9.png
+* library\src\main\res\drawable\
+* library\src\main\res\drawable\vpi__tab_indicator.xml
+* library\src\main\res\values\
+* library\src\main\res\values\vpi__attrs.xml
+* library\src\main\res\values\vpi__colors.xml
+* library\src\main\res\values\vpi__defaults.xml
+* library\src\main\res\values\vpi__styles.xml
+* pom.xml
+* proguard-project.txt
+* settings.gradle
+From library:
+* pom.xml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In library:
+* AndroidManifest.xml => library\src\main\AndroidManifest.xml
+* res\ => library\src\main\res\
+* src\ => library\src\main\java\
+In F.E.P-Chocolate-List:
+* AndroidManifest.xml => fEPChocolateList\src\main\AndroidManifest.xml
+* assets\ => fEPChocolateList\src\main\assets\
+* lint.xml => fEPChocolateList\lint.xml
+* res\ => fEPChocolateList\src\main\res\
+* src\ => fEPChocolateList\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

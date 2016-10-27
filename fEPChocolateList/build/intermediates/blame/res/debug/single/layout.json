@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\layout\\feature_carousel.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\layout\\feature_carousel.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\layout\\company_list_cell.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\layout\\company_list_cell.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\layout\\activity_company.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\layout\\activity_company.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\layout\\feature_carousel_item_fragment.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\layout\\feature_carousel_item_fragment.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mustache.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\layout\\activity_mustache.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\layout\\activity_feature.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\layout\\activity_feature.xml"
+    },
+    {
+        "merged": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
