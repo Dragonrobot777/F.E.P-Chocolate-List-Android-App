@@ -29,6 +29,9 @@
         <activity android:name="CompanyActivity"></activity>
         <activity android:name="FeatureActivity"></activity>
         <activity android:name="MustacheActivity"></activity>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="608357b25f80499dd904cb82965a29025b4d038c" />
     </application>
 
 </manifest>

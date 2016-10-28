@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="http://schemas.android.com/tools">
     <attr format="boolean" name="centered"/>
     <attr format="color" name="selectedColor"/>
     <attr format="dimension" name="strokeWidth"/>
@@ -73,6 +73,7 @@ Companies such as Nestlé, Mars, and others are culpable, but are not listed as 
 This list is not comprehensive. We continue to reach out to more companies and will be updating the list as we receive responses. Again, all of the companies make vegan chocolates but they may also sell non-vegan chocolates - we have tried to help, but we encourage you to read the ingredients to be sure.
 	</string>
     <string name="app_name">Chocolate List</string>
+    <string name="com.crashlytics.android.build_id" ns1:ignore="UnusedResources,TypographyDashes" translatable="false">7dbeb59a-96ea-4d61-9575-977b65d684f6</string>
     <string name="company_logo">Company logo</string>
     <string name="feature_image">Feature image</string>
     <string name="feature_read_more">Read More</string>

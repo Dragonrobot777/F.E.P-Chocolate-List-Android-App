@@ -5,16 +5,6 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
 
-import org.foodispower.chocolatelist.adapter.CompanyAdapter;
-import org.foodispower.chocolatelist.adapter.FeatureCarouselAdapter;
-import org.foodispower.chocolatelist.data.AppDataManager;
-import org.foodispower.chocolatelist.manager.FavouritesManager;
-import org.foodispower.chocolatelist.model.AppData;
-import org.foodispower.chocolatelist.model.Company;
-import org.foodispower.chocolatelist.model.Feature;
-import org.foodispower.chocolatelist.spice.request.AppDataJsonRequest;
-import org.foodispower.chocolatelist.spice.service.JsonSpiceService;
-
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -44,6 +34,21 @@ import com.octo.android.robospice.persistence.DurationInMillis;
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
 import com.viewpagerindicator.CirclePageIndicator;
+
+import io.fabric.sdk.android.Fabric;
+import com.crashlytics.android.Crashlytics;
+import com.crashlytics.android.answers.Answers;
+
+import org.foodispower.chocolatelist.adapter.CompanyAdapter;
+import org.foodispower.chocolatelist.adapter.FeatureCarouselAdapter;
+import org.foodispower.chocolatelist.data.AppDataManager;
+import org.foodispower.chocolatelist.manager.FavouritesManager;
+import org.foodispower.chocolatelist.model.AppData;
+import org.foodispower.chocolatelist.model.Company;
+import org.foodispower.chocolatelist.model.Feature;
+import org.foodispower.chocolatelist.spice.request.AppDataJsonRequest;
+import org.foodispower.chocolatelist.spice.service.JsonSpiceService;
+
 
 public class MainActivity extends FragmentActivity {
 
@@ -81,7 +86,11 @@ public class MainActivity extends FragmentActivity {
     @Override
     protected void onCreate( Bundle savedInstanceState ) {
         super.onCreate( savedInstanceState );
-        setContentView( R.layout.activity_main );
+
+		Fabric.with(this, new Answers());
+        Fabric.with(this, new Crashlytics());
+
+		setContentView( R.layout.activity_main );
 
         favouritesManager = FavouritesManager.getInstance( this );
 

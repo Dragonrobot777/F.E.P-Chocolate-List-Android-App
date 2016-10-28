@@ -405,19 +405,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int add_to_favourites=0x7f0a0007;
         public static final int app_description=0x7f0a0008;
         public static final int app_name=0x7f0a0009;
-        public static final int company_logo=0x7f0a000a;
-        public static final int feature_image=0x7f0a000b;
-        public static final int feature_read_more=0x7f0a000c;
-        public static final int post_to_facebook=0x7f0a000d;
-        public static final int post_to_twitter=0x7f0a000e;
-        public static final int remove_from_favourites=0x7f0a000f;
-        public static final int status_cannot_recommend=0x7f0a0010;
-        public static final int status_reason_cannot_recommend_did_not_disclose=0x7f0a0011;
-        public static final int status_reason_cannot_recommend_did_not_respond=0x7f0a0012;
-        public static final int status_reason_cannot_recommend_responded=0x7f0a0013;
-        public static final int status_reason_cannot_recommend_working_on_issues=0x7f0a0014;
-        public static final int status_recommended=0x7f0a0015;
-        public static final int status_recommended_benefit_of_the_doubt=0x7f0a0016;
+        public static final int com_crashlytics_android_build_id=0x7f0a000a;
+        public static final int company_logo=0x7f0a000b;
+        public static final int feature_image=0x7f0a000c;
+        public static final int feature_read_more=0x7f0a000d;
+        public static final int post_to_facebook=0x7f0a000e;
+        public static final int post_to_twitter=0x7f0a000f;
+        public static final int remove_from_favourites=0x7f0a0010;
+        public static final int status_cannot_recommend=0x7f0a0011;
+        public static final int status_reason_cannot_recommend_did_not_disclose=0x7f0a0012;
+        public static final int status_reason_cannot_recommend_did_not_respond=0x7f0a0013;
+        public static final int status_reason_cannot_recommend_responded=0x7f0a0014;
+        public static final int status_reason_cannot_recommend_working_on_issues=0x7f0a0015;
+        public static final int status_recommended=0x7f0a0016;
+        public static final int status_recommended_benefit_of_the_doubt=0x7f0a0017;
     }
     public static final class style {
         /**  API 11 theme customizations can go here. 

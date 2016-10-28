@@ -38,6 +38,10 @@
         <activity android:name="org.foodispower.chocolatelist.CompanyActivity" />
         <activity android:name="org.foodispower.chocolatelist.FeatureActivity" />
         <activity android:name="org.foodispower.chocolatelist.MustacheActivity" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="608357b25f80499dd904cb82965a29025b4d038c" />
     </application>
 
 </manifest>
