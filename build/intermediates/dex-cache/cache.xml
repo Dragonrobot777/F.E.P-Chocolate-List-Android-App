@@ -52,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="f2ced0432a3c3724c00b880da1595f138497e165">
+        sha1="4b8d5a3249cd89688d9c1e24f424d08af98c359e">
         <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4dc954a1da157163fefc99cd201aedb8f75bd038\classes.dex" />
     </item>
     <item
@@ -223,7 +223,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="1ed7e97bd97acdf3a5e0f06cf6ecf0d9a478cc50">
+        sha1="71298835e8e1e624b766a80a4615f39f5bb916c4">
         <dex dex="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_15ff7ff511bba6c154f2f3639dea897d27ba29ef\classes.dex" />
     </item>
     <item

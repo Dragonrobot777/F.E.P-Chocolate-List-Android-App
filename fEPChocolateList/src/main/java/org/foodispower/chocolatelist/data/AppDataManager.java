@@ -15,6 +15,7 @@ import org.codehaus.jackson.map.PropertyNamingStrategy.LowerCaseWithUnderscoresS
 import org.foodispower.chocolatelist.model.AppData;
 
 import android.content.Context;
+import android.util.Log;
 
 public class AppDataManager {
 
@@ -42,6 +43,7 @@ public class AppDataManager {
 			output = readFromAssets();
 		}
 
+		//Log.d("Chocolate List", "output " + output);
 		return output;
 	}
 

@@ -5,36 +5,17 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="28722a91-aca4-47f4-b420-96b65394f27c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.10/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-1.3.10_491658f31f8877ac7050ff1e542a2e5bf523bc37/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.2.2_3dd93c89cd40ebdb27d03ec0de812b2fc9263d38/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.6.5_3a81f0c07be1cd3069f0654636fab538ab8de1bf/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.14_b50a55323cd30735a33507dc5305cd5872846d16/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.14_f4fc90ab4bcbfd6cc421167d9fee1b1b58739376/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/answers_1_3_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/beta_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/crashlytics_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/crashlytics_core_2_3_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fabric_1_3_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/assets/debug/crashlytics-build.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.10/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.10/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/proguard.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/main.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/answers_1_3_10.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_24_2_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
@@ -42,11 +23,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_fEPChocolateList_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_fEPChocolateList_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_fEPChocolateList_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_fEPChocolateList_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_fEPChocolateList_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_fEPChocolateList_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_fEPChocolateList_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_fEPChocolateList_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/CompanyActivity.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/CompanyActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$1.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$2.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_library_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_library_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_library_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_library_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$3.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$4.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$5.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$5.class" />
@@ -54,15 +33,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$AppDataRequestListener.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$AppDataRequestListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$CompanyListFilter.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity$CompanyListFilter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/R$layout.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/R$menu.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/R$menu.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/R$string.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/R$style.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/R$styleable.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/adapter/CompanyAdapter.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/adapter/CompanyAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/data/AppDataManager.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/classes/debug/org/foodispower/chocolatelist/data/AppDataManager.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/CompanyActivity.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/CompanyActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$1.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$2.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$3.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$4.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$5.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$5.class" />
@@ -70,23 +48,19 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$AppDataRequestListener.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$AppDataRequestListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$CompanyListFilter.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity$CompanyListFilter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/R$layout.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/R$menu.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/R$menu.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/R$string.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/R$style.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/R$styleable.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/adapter/CompanyAdapter.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/adapter/CompanyAdapter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/data/AppDataManager.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental-verifier/debug/org/foodispower/chocolatelist/data/AppDataManager.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageDebug/zip-cache/+ajSrHbcg+Gs7YLNH6Te9NecxJQ=" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageDebug/zip-cache/+ajSrHbcg+Gs7YLNH6Te9NecxJQ=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageDebug/zip-cache/CLtmBRMadsQb56et2TjsThelL64=" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageDebug/zip-cache/CLtmBRMadsQb56et2TjsThelL64=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/+ajSrHbcg+Gs7YLNH6Te9NecxJQ=" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/+ajSrHbcg+Gs7YLNH6Te9NecxJQ=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/instant-run-support/debug/instant-run.zip" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/instant-run-support/debug/instant-run.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/CompanyActivity.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/CompanyActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/FeatureActivity.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/FeatureActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$1.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$2.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$3.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$4.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$5.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$5.class" />
@@ -94,17 +68,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$AppDataRequestListener.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$AppDataRequestListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$CompanyListFilter.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity$CompanyListFilter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/R$layout.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/R$menu.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/R$menu.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/R$string.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/R$style.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/R$styleable.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/adapter/CompanyAdapter.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/adapter/CompanyAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/fragment/FeatureCarouselItemFragment.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/fragment/FeatureCarouselItemFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/org/foodispower/chocolatelist/adapter/CompanyAdapter.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/org/foodispower/chocolatelist/adapter/CompanyAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/org/foodispower/chocolatelist/fragment/FeatureCarouselItemFragment.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/org/foodispower/chocolatelist/fragment/FeatureCarouselItemFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/CompanyActivity.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/CompanyActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/FeatureActivity.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/FeatureActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$1.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$2.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/data/AppDataManager.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRun/debug/folders/1/5/main/org/foodispower/chocolatelist/data/AppDataManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/org/foodispower/chocolatelist/data/AppDataManager.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/org/foodispower/chocolatelist/data/AppDataManager.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$3.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$3.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$4.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$5.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$5.class" />
@@ -112,146 +82,49 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$AppDataRequestListener.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$AppDataRequestListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$CompanyListFilter.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity$CompanyListFilter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/R$layout.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/R$menu.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/R$menu.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/R$string.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/R$style.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/R$styleable.class" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/org/foodispower/chocolatelist/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/outputs/apk/fEPChocolateList-debug.apk" afterPath="$PROJECT_DIR$/fEPChocolateList/build/outputs/apk/fEPChocolateList-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/outputs/aar/library-debug.aar" afterPath="$PROJECT_DIR$/library/build/outputs/aar/library-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/outputs/aar/library-release.aar" afterPath="$PROJECT_DIR$/library/build/outputs/aar/library-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_24_2_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build.gradle" afterPath="$PROJECT_DIR$/fEPChocolateList/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/generated/source/buildConfig/androidTest/debug/org/foodispower/chocolatelist/test/BuildConfig.java" afterPath="$PROJECT_DIR$/fEPChocolateList/build/generated/source/buildConfig/androidTest/debug/org/foodispower/chocolatelist/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/generated/source/buildConfig/debug/org/foodispower/chocolatelist/BuildConfig.java" afterPath="$PROJECT_DIR$/fEPChocolateList/build/generated/source/buildConfig/debug/org/foodispower/chocolatelist/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/generated/source/r/debug/com/viewpagerindicator/R.java" afterPath="$PROJECT_DIR$/fEPChocolateList/build/generated/source/r/debug/com/viewpagerindicator/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/generated/source/r/debug/org/foodispower/chocolatelist/R.java" afterPath="$PROJECT_DIR$/fEPChocolateList/build/generated/source/r/debug/org/foodispower/chocolatelist/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/multi/values-sw720dp-land-v13.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/multi/values-sw720dp-land-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/multi/values-v11.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/multi/values-v11.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/multi/values-v14.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/multi/values-v14.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/assets/debug/crashlytics-build.properties" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/assets/debug/crashlytics-build.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/anim.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/anim.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/color.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-ldpi.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-ldpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-mdpi.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/drawable.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/menu.json" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/blame/res/debug/single/menu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/F.E.P-Chocolate-List/library/unspecified/AndroidManifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/F.E.P-Chocolate-List/library/unspecified/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/F.E.P-Chocolate-List/library/unspecified/res/values/values.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/F.E.P-Chocolate-List/library/unspecified/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/aidl/android/support/v4/os/ResultReceiver.aidl" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/aidl/android/support/v4/os/ResultReceiver.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/proguard.txt" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/proguard.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/MediaMetadataCompat.aidl" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/MediaMetadataCompat.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/RatingCompat.aidl" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/RatingCompat.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/MediaSessionCompat.aidl" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/MediaSessionCompat.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/ParcelableVolumeInfo.aidl" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/ParcelableVolumeInfo.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/PlaybackStateCompat.aidl" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/PlaybackStateCompat.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/instant-run-support/debug/manifest.crc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/instant-run-support/debug/manifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/instant-run-support/debug/manifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/res/merged/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/res/merged/debug/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/res/merged/debug/values-v11/values-v11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/res/merged/debug/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/res/merged/debug/values-v14/values-v14.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/restart-dex/debug/build-info.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/fEPChocolateList/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/fEPChocolateList/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/fEPChocolateList.iml" afterPath="$PROJECT_DIR$/fEPChocolateList/fEPChocolateList.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/fEPChocolateList/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java" afterPath="$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/generated/source/buildConfig/androidTest/debug/com/viewpagerindicator/test/BuildConfig.java" afterPath="$PROJECT_DIR$/library/build/generated/source/buildConfig/androidTest/debug/com/viewpagerindicator/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/generated/source/buildConfig/debug/com/viewpagerindicator/BuildConfig.java" afterPath="$PROJECT_DIR$/library/build/generated/source/buildConfig/debug/com/viewpagerindicator/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/generated/source/buildConfig/release/com/viewpagerindicator/BuildConfig.java" afterPath="$PROJECT_DIR$/library/build/generated/source/buildConfig/release/com/viewpagerindicator/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/generated/source/r/androidTest/debug/com/viewpagerindicator/R.java" afterPath="$PROJECT_DIR$/library/build/generated/source/r/androidTest/debug/com/viewpagerindicator/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/color.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/color.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/androidTest/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/single/color.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/single/color.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/multi/values.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/single/color.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/single/color.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/data/AppDataManager.java" afterPath="$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/data/AppDataManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build.gradle" afterPath="$PROJECT_DIR$/library/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/single/drawable.json" afterPath="$PROJECT_DIR$/library/build/intermediates/blame/res/release/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/aidl/android/support/v4/os/ResultReceiver.aidl" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/aidl/android/support/v4/os/ResultReceiver.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/proguard.txt" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/proguard.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/MediaMetadataCompat.aidl" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/MediaMetadataCompat.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/RatingCompat.aidl" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/RatingCompat.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/MediaSessionCompat.aidl" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/MediaSessionCompat.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/ParcelableVolumeInfo.aidl" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/ParcelableVolumeInfo.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/PlaybackStateCompat.aidl" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/aidl/android/support/v4/media/session/PlaybackStateCompat.aidl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseShaders/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/mergeReleaseShaders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/incremental/packageReleaseResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/manifests/aapt/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/manifests/aapt/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/androidTest/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build/intermediates/res/merged/release/values/values.xml" afterPath="$PROJECT_DIR$/library/build/intermediates/res/merged/release/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/library.iml" afterPath="$PROJECT_DIR$/library/library.iml" />
     </list>
     <ignored path="F.E.P-Chocolate-List.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -285,27 +158,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fEPChocolateList/build.gradle">
+      <file leaf-file-name="Company.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/model/Company.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+            <state relative-caret-position="-104">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
+      <file leaf-file-name="AppDataManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/data/AppDataManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-              <folding>
-                <element signature="e#569#587#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="364">
+              <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -313,16 +181,65 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="418">
+              <caret line="357" column="131" selection-start-line="357" selection-start-column="131" selection-end-line="357" selection-end-column="131" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2418#2429#0" expanded="true" />
+                <element signature="e#3635#4065#0" expanded="true" />
+                <element signature="e#4064#4065#0" expanded="true" />
+                <element signature="e#4911#5383#0" expanded="true" />
+                <element signature="e#5382#5383#0" expanded="true" />
+                <element signature="e#5425#5802#0" expanded="true" />
+                <element signature="e#5801#5802#0" expanded="true" />
+                <element signature="e#7660#7682#0" expanded="true" />
+                <element signature="e#7764#7962#0" expanded="true" />
+                <element signature="e#7961#7962#0" expanded="true" />
+                <element signature="e#8307#8731#0" expanded="true" />
+                <element signature="e#8730#8731#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_company.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/activity_company.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1586">
+              <caret line="122" column="35" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompanyActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/CompanyActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9">
+              <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+              <folding>
+                <element signature="e#6167#6446#0" expanded="true" />
+                <element signature="e#6445#6446#0" expanded="true" />
+                <element signature="e#6493#7089#0" expanded="true" />
+                <element signature="e#7088#7089#0" expanded="true" />
+                <element signature="e#7137#7655#0" expanded="true" />
+                <element signature="e#7654#7655#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2480,7 +2397,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List" value="5910428427878" />
+        <entry key="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List" value="5910667698590" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2834,11 +2751,14 @@
       <list>
         <option value="$PROJECT_DIR$/fEPChocolateList/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/library/build.gradle" />
         <option value="$PROJECT_DIR$/library/src/main/java/com/viewpagerindicator/LinePageIndicator.java" />
         <option value="$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/spice/service/ImageSpiceService.java" />
         <option value="$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/spice/service/JsonSpiceService.java" />
+        <option value="$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/data/AppDataManager.java" />
         <option value="$PROJECT_DIR$/fEPChocolateList/build.gradle" />
+        <option value="$PROJECT_DIR$/library/build.gradle" />
+        <option value="$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java" />
       </list>
     </option>
@@ -2874,14 +2794,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="F.E.P-Chocolate-List" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2891,6 +2818,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="F.E.P-Chocolate-List" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="F.E.P-Chocolate-List" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="F.E.P-Chocolate-List" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="F.E.P-Chocolate-List" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="F.E.P-Chocolate-List" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2927,6 +2890,92 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="F.E.P-Chocolate-List" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="F.E.P-Chocolate-List" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fEPChocolateList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="F.E.P-Chocolate-List" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="F.E.P-Chocolate-List" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fEPChocolateList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="F.E.P-Chocolate-List" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="F.E.P-Chocolate-List" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fEPChocolateList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2988,10 +3037,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3012,6 +3058,8 @@
     <property name="android.sdk.path" value="C:/android-sdk" />
     <property name="device.picker.selection" value="066cce7a0acc6a09" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="UI_DESIGNER_EDITOR_MODE.NlPropertiesWindowManager-NlEditorPanel.SHOW" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
   </component>
   <component name="RunManager" selected="Android App.fEPChocolateList">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -3059,6 +3107,50 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -3072,6 +3164,22 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -3098,6 +3206,27 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -3120,6 +3249,34 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -3213,12 +3370,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.75085324" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3226,15 +3383,15 @@
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32423207" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3225256" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3246,6 +3403,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -3265,7 +3423,29 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/fEPChocolateList/build.gradle">
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3861">
+          <caret line="350" column="0" selection-start-line="350" selection-start-column="0" selection-end-line="350" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2418#2429#0" expanded="true" />
+            <element signature="e#3635#4065#0" expanded="true" />
+            <element signature="e#4064#4065#0" expanded="true" />
+            <element signature="e#4911#5383#0" expanded="true" />
+            <element signature="e#5382#5383#0" expanded="true" />
+            <element signature="e#5425#5802#0" expanded="true" />
+            <element signature="e#5801#5802#0" expanded="true" />
+            <element signature="e#7660#7682#0" expanded="true" />
+            <element signature="e#7764#7962#0" expanded="true" />
+            <element signature="e#7961#7962#0" expanded="true" />
+            <element signature="e#8307#8731#0" expanded="true" />
+            <element signature="e#8730#8731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/data/AppDataManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -3273,7 +3453,187 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/model/Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2418#2429#0" expanded="true" />
+            <element signature="e#3635#4065#0" expanded="true" />
+            <element signature="e#4064#4065#0" expanded="true" />
+            <element signature="e#4911#5383#0" expanded="true" />
+            <element signature="e#5382#5383#0" expanded="true" />
+            <element signature="e#5425#5802#0" expanded="true" />
+            <element signature="e#5801#5802#0" expanded="true" />
+            <element signature="e#7660#7682#0" expanded="true" />
+            <element signature="e#7764#7962#0" expanded="true" />
+            <element signature="e#7961#7962#0" expanded="true" />
+            <element signature="e#8307#8731#0" expanded="true" />
+            <element signature="e#8730#8731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2418#2429#0" expanded="true" />
+            <element signature="e#3635#4065#0" expanded="true" />
+            <element signature="e#4064#4065#0" expanded="true" />
+            <element signature="e#4911#5383#0" expanded="true" />
+            <element signature="e#5382#5383#0" expanded="true" />
+            <element signature="e#5425#5802#0" expanded="true" />
+            <element signature="e#5801#5802#0" expanded="true" />
+            <element signature="e#7660#7682#0" expanded="true" />
+            <element signature="e#7764#7962#0" expanded="true" />
+            <element signature="e#7961#7962#0" expanded="true" />
+            <element signature="e#8307#8731#0" expanded="true" />
+            <element signature="e#8730#8731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2418#2429#0" expanded="true" />
+            <element signature="e#3635#4065#0" expanded="true" />
+            <element signature="e#4064#4065#0" expanded="true" />
+            <element signature="e#4911#5383#0" expanded="true" />
+            <element signature="e#5382#5383#0" expanded="true" />
+            <element signature="e#5425#5802#0" expanded="true" />
+            <element signature="e#5801#5802#0" expanded="true" />
+            <element signature="e#7660#7682#0" expanded="true" />
+            <element signature="e#7764#7962#0" expanded="true" />
+            <element signature="e#7961#7962#0" expanded="true" />
+            <element signature="e#8307#8731#0" expanded="true" />
+            <element signature="e#8730#8731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2418#2429#0" expanded="true" />
+            <element signature="e#3635#4065#0" expanded="true" />
+            <element signature="e#4064#4065#0" expanded="true" />
+            <element signature="e#4911#5383#0" expanded="true" />
+            <element signature="e#5382#5383#0" expanded="true" />
+            <element signature="e#5425#5802#0" expanded="true" />
+            <element signature="e#5801#5802#0" expanded="true" />
+            <element signature="e#7660#7682#0" expanded="true" />
+            <element signature="e#7764#7962#0" expanded="true" />
+            <element signature="e#7961#7962#0" expanded="true" />
+            <element signature="e#8307#8731#0" expanded="true" />
+            <element signature="e#8730#8731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2418#2429#0" expanded="true" />
+            <element signature="e#3635#4065#0" expanded="true" />
+            <element signature="e#4064#4065#0" expanded="true" />
+            <element signature="e#4911#5383#0" expanded="true" />
+            <element signature="e#5382#5383#0" expanded="true" />
+            <element signature="e#5425#5802#0" expanded="true" />
+            <element signature="e#5801#5802#0" expanded="true" />
+            <element signature="e#7660#7682#0" expanded="true" />
+            <element signature="e#7764#7962#0" expanded="true" />
+            <element signature="e#7961#7962#0" expanded="true" />
+            <element signature="e#8307#8731#0" expanded="true" />
+            <element signature="e#8730#8731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fEPChocolateList/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -3281,11 +3641,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fEPChocolateList/build.gradle">
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="39">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2418#2429#0" expanded="true" />
+            <element signature="e#3635#4065#0" expanded="true" />
+            <element signature="e#4064#4065#0" expanded="true" />
+            <element signature="e#4911#5383#0" expanded="true" />
+            <element signature="e#5382#5383#0" expanded="true" />
+            <element signature="e#5425#5802#0" expanded="true" />
+            <element signature="e#5801#5802#0" expanded="true" />
+            <element signature="e#7660#7682#0" expanded="true" />
+            <element signature="e#7764#7962#0" expanded="true" />
+            <element signature="e#7961#7962#0" expanded="true" />
+            <element signature="e#8307#8731#0" expanded="true" />
+            <element signature="e#8730#8731#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3293,7 +3667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3301,7 +3674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3309,7 +3681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3317,7 +3688,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -3336,21 +3727,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/library/src/main/java/com/viewpagerindicator/LinePageIndicator.java">
@@ -3385,7 +3769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3393,37 +3776,189 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/feature_carousel.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/menu/main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-81">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.13/83113901bc2a377d698ccea35ad842786f37c6ad/jackson-mapper-asl-1.9.13-sources.jar!/org/codehaus/jackson/map/ObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3796">
+          <caret line="325" column="11" selection-start-line="325" selection-start-column="11" selection-end-line="325" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/model/AppData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/android-sdk/platforms/android-24/android.jar!/android/content/Context.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="155" column="44" selection-start-line="155" selection-start-column="44" selection-end-line="155" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/values-v14/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/values-v11/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/java/com/viewpagerindicator/CirclePageIndicator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fEPChocolateList/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        <state relative-caret-position="298">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/res/layout/activity_company.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1586">
+          <caret line="122" column="35" selection-start-line="122" selection-start-column="35" selection-end-line="122" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state relative-caret-position="418">
+          <caret line="357" column="131" selection-start-line="357" selection-start-column="131" selection-end-line="357" selection-end-column="131" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2418#2429#0" expanded="true" />
+            <element signature="e#3635#4065#0" expanded="true" />
+            <element signature="e#4064#4065#0" expanded="true" />
+            <element signature="e#4911#5383#0" expanded="true" />
+            <element signature="e#5382#5383#0" expanded="true" />
+            <element signature="e#5425#5802#0" expanded="true" />
+            <element signature="e#5801#5802#0" expanded="true" />
+            <element signature="e#7660#7682#0" expanded="true" />
+            <element signature="e#7764#7962#0" expanded="true" />
+            <element signature="e#7961#7962#0" expanded="true" />
+            <element signature="e#8307#8731#0" expanded="true" />
+            <element signature="e#8730#8731#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/model/Company.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="-104">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/data/AppDataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fEPChocolateList/src/main/java/org/foodispower/chocolatelist/CompanyActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
           <folding>
-            <element signature="e#569#587#0" expanded="true" />
+            <element signature="e#6167#6446#0" expanded="true" />
+            <element signature="e#6445#6446#0" expanded="true" />
+            <element signature="e#6493#7089#0" expanded="true" />
+            <element signature="e#7088#7089#0" expanded="true" />
+            <element signature="e#7137#7655#0" expanded="true" />
+            <element signature="e#7654#7655#0" expanded="true" />
           </folding>
         </state>
       </provider>

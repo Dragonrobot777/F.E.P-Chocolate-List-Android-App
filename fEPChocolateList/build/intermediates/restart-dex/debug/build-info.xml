@@ -5,29 +5,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="54817740645425"
+    timestamp="225038266988898"
     token="-2341220474501794180"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="896" />
+        duration="2530" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1442" />
+        duration="174" />
     <task
         name="verifier"
-        duration="262" />
+        duration="11" />
 
     <artifact
         location="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\outputs\apk\fEPChocolateList-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="54817740645425"
+        timestamp="225038266988898"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\AndroidStudioProjects\_Freelance\F.E.P-Chocolate-List\fEPChocolateList\build\outputs\apk\fEPChocolateList-debug.apk"

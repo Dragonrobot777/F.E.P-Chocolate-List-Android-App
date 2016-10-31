@@ -11,6 +11,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
+import android.util.Log;
 import android.util.TypedValue;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
@@ -22,6 +23,7 @@ import android.view.View.OnTouchListener;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.view.inputmethod.EditorInfo;
+import android.widget.AbsListView;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.EditText;
@@ -95,7 +97,6 @@ public class MainActivity extends FragmentActivity {
         favouritesManager = FavouritesManager.getInstance( this );
 
         if ( null == savedInstanceState ) {
-	
 	        contentListView = ( ListView ) findViewById( R.id.content_list_view );
 	        contentListView.setFastScrollEnabled(true);
 	
@@ -103,7 +104,6 @@ public class MainActivity extends FragmentActivity {
 	        carouselLayout = ( ViewGroup )vi.inflate( R.layout.feature_carousel, contentListView, false );
 	
 	        final ViewPager featureCarousel = ( ViewPager )carouselLayout.findViewById( R.id.carousel_view_pager );
-	
 	        featureCarousel.setOnTouchListener( new OnTouchListener() {
 				
 				public boolean onTouch( View v, MotionEvent event ) {
@@ -121,7 +121,7 @@ public class MainActivity extends FragmentActivity {
 					return false;
 				}
 			});
-	
+
 	        featureCarouselAdapter = new FeatureCarouselAdapter( getSupportFragmentManager() );
 	        featureCarousel.setAdapter( featureCarouselAdapter );
 	
@@ -150,6 +150,18 @@ public class MainActivity extends FragmentActivity {
 	        	}
 	        });
 
+			contentListView.setOnTouchListener(new OnTouchListener() {
+				@Override
+				public boolean onTouch(View view, MotionEvent motionEvent) {
+					int headerVisiblePart = contentListView.getChildAt(0).getHeight() + contentListView.getChildAt(0).getTop();
+					//Log.d("Chocolate List", String.valueOf(headerVisiblePart));
+
+					if (motionEvent.getY() <= headerVisiblePart) return true;
+
+					return false;
+				}
+			});
+
             initialiseAppData();
         	updateAppData();
         }
@@ -167,7 +179,14 @@ public class MainActivity extends FragmentActivity {
     	super.onStop();
     }
 
-    @Override
+	@Override
+	protected void onDestroy() {
+		super.onDestroy();
+
+		System.exit(0);
+	}
+
+	@Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate( R.menu.main, menu );
         return true;
@@ -327,10 +346,16 @@ public class MainActivity extends FragmentActivity {
     			continue;
     		}
 
+			//Log.d("Chocolate List", "C name " + company.getName());
+			//Log.d("Chocolate List", "C notes " + company.getNotes());
     		String companyNameNormalised = company.getName().toLowerCase( Locale.getDefault() );
-    		String searchTermNormalised = searchTerm.toLowerCase( Locale.getDefault() ); 
+			String companyNotesNormalised = "";
+			if (company.getNotes() != null) {
+				companyNotesNormalised = company.getNotes().toLowerCase(Locale.getDefault());
+			}
+    		String searchTermNormalised = searchTerm.toLowerCase( Locale.getDefault() );
 
-    		if ( companyNameNormalised.contains( searchTermNormalised ) ) {
+    		if ( companyNameNormalised.contains( searchTermNormalised ) || companyNotesNormalised.contains(searchTermNormalised)) {
     			companyAdapter.add( company );
     		}
     	}

@@ -1,4 +1,4 @@
-#Fri Oct 28 10:48:50 MSK 2016
+#Sun Oct 30 10:05:00 MSK 2016
 base.0=C\:\\AndroidStudioProjects\\_Freelance\\F.E.P-Chocolate-List\\fEPChocolateList\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_15ff7ff511bba6c154f2f3639dea897d27ba29ef
 renamed.1=classes.dex
 renamed.0=classes2.dex
